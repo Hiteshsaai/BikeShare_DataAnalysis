@@ -24,7 +24,7 @@ to improve the bike share business, by analysing from different asepcts of the d
   -Matplotlob
   -Numpy
   
-###INSTALLTION REQUIRED
+### INSTALLTION REQUIRED
 ------------------------
 * [Python 2.7 or 3.6](https://www.python.org/downloads/)
 * [Conda](https://conda.io/docs/user-guide/install/index.html) (Recommended)
