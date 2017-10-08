@@ -19,14 +19,14 @@ to improve the bike share business, by analysing from different asepcts of the d
     
  ### TOOLS & PACKAGES USED
  ------------------------
- -Tools:
-  - Python
-  - Jupyter Notebook  
- -Packages:
-  -Pandas
-  -Matplotlob
-  -Numpy
-  
+ - Tools:
+   - Python
+   - Jupyter Notebook  
+ - Packages:
+   - Pandas
+   - Matplotlob
+   - Numpy
+   
 ### INSTALLTION REQUIRED
 ------------------------
 * [Python 2.7 or 3.6](https://www.python.org/downloads/)
