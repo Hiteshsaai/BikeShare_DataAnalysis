@@ -36,3 +36,6 @@ to improve the bike share business, by analysing from different asepcts of the d
   - [Matplotlib](https://matplotlib.org/faq/installing_faq.html)
   - [Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)
   
+### LICENSE 
+-----------------------
+This project is licensed under the MIT License - see the LICENSE.md file for details
