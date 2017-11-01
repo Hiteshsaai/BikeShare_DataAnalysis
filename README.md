@@ -37,7 +37,7 @@ to improve the bike share business, by analysing from different asepcts of the d
 
 # Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/Hiteshsaai/BikeShare_DataAnalysis/blob/master/CONTRIBUTION.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTION.md](https://github.com/Hiteshsaai/BikeShare_DataAnalysis/blob/master/CONTRIBUTION.md) for details on our code of conduct, and the process for submitting pull requests to us.
   
 ### LICENSE 
 
